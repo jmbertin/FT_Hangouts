@@ -6,7 +6,7 @@ Welcome to the FT_Hangouts repository, developed using React Native! This applic
 
 Follow the instructions below to set up and test the application.
 
-**Developed and tested on a Linux Ubuntu 23.04 and Android 12**
+**Developed and tested on a Linux Ubuntu 23.04 and Android 12 / 13**
 
 ----
 
@@ -87,8 +87,3 @@ android/app/build/outputs/bundle/release/app-release.aab
 
 ## Contributing
 If you wish to contribute to the project, please create a pull request and detail the changes you're proposing.
-
-----
-
-## License
-This project is under the MIT license.
